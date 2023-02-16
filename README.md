@@ -1,4 +1,4 @@
-![Action Validation](https://github.com/betty-services/Custom-Action-Functions-Template/actions/workflows/main.yml/badge.svg?event=push)
+![Action Validation](/actions/workflows/main.yml/badge.svg?event=push)
 
 # Custom Action Functions Template
 
@@ -16,6 +16,8 @@ This repository can be used to kick-start your new repositories for Custom Actio
   - Install jest using `npm i -g jest`
   - Run the `jest` command
 - An example function including an example Jest test script
+
+Do not forget to update the badge above once this repository has been used.
 
 ### To do:
 
