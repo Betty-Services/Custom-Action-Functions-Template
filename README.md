@@ -20,7 +20,7 @@ This repository can be used to kick-start your new repositories for Custom Actio
 ### To do:
 
 - [ ] Automated jest testing
-  - [ ] Include coverage report on commits
+  - [ ] Include coverage report in `README.md` file
 - [ ] Automated block publishing
 - [ ] Fix hardcoded badge URL in `README.md`
 
