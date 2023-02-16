@@ -1,0 +1,5 @@
+{
+  "host": "https://<my-betty-app>.bettyblocks.com",
+  "applicationId": "<my-application-id>",
+  "zone": "<application-zone>"
+}
