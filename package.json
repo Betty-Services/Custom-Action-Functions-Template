@@ -1,6 +1,20 @@
 {
-  "name": "app-functions",
+  "name": "custom-action-functions",
   "version": "1.0.0",
-  "dependencies": {},
-  "private": "true"
+  "private": "true",
+  "description": "![Action Validation](https://github.com/betty-services/custom-action-functions-template/actions/workflows/main.yml/badge.svg?event=push)",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betty-Services/custom-action-functions-template.git"
+  },
+  "author": "Maarten Geerse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Betty-Services/custom-action-functions-template/issues"
+  },
+  "homepage": "https://github.com/Betty-Services/custom-action-functions-template#readme"
 }
