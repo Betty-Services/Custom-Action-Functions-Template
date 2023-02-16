@@ -13,7 +13,7 @@ This repository can be used to kick-start your new repositories for Custom Actio
 - Ready to use jest configuration
   - Install jest using `npm i -g jest`
   - Run the `jest` command
-- An example function including a Jest test
+- An example function including an example Jest test script
 
 ### To do:
 
