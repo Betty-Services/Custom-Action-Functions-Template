@@ -1,4 +1,4 @@
-![Action Validation](/actions/workflows/main.yml/badge.svg?event=push)
+![Action Validation](../actions/workflows/main.yml/badge.svg?event=push)
 
 # Custom Action Functions Template
 
