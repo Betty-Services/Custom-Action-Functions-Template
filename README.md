@@ -1,4 +1,4 @@
-![Action Validation](../actions/workflows/main.yml/badge.svg?event=push)
+![Action Validation](/../actions/workflows/main.yml/badge.svg?event=push)
 
 # Custom Action Functions Template
 
@@ -17,10 +17,11 @@ This repository can be used to kick-start your new repositories for Custom Actio
   - Run the `jest` command
 - An example function including an example Jest test script
 
-Do not forget to update the badge above once this repository has been used.
-
 ### To do:
 
 - [ ] Automated jest testing
   - [ ] Include coverage report on commits
 - [ ] Automated block publishing
+- [ ] Fix hardcoded badge URL in `README.md`
+
+_Do not forget to update the badge above once this repository has been used._
