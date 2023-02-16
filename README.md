@@ -1,4 +1,4 @@
-![Action Validation](/../actions/workflows/main.yml/badge.svg?event=push)
+![Action Validation](https://github.com/betty-services/Custom-Action-Functions-Template/actions/workflows/main.yml/badge.svg?event=push)
 
 # Custom Action Functions Template
 
